@@ -1,0 +1,3 @@
+﻿  CombateP00.cpp
+C:\Users\Cleve\OneDrive\Escritorio\no borrar pls\POO\CombateP00\CombateP00\CombateP00.cpp(28,29): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  CombateP00.vcxproj -> C:\Users\Cleve\OneDrive\Escritorio\no borrar pls\POO\CombateP00\x64\Debug\CombateP00.exe
